@@ -13,4 +13,5 @@ if test -f "$DATA_ARCHIVE_NAME"; then
     rm $DATA_ARCHIVE_NAME
     git add --all >/dev/null
     git commit -am "$COMMIT_MESSAGE" --quiet
+    git push origin master --quiet
 fi
