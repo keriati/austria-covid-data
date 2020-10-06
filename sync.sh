@@ -1,6 +1,6 @@
 #!/bin/bash
 
-readonly DATA_URL="https://info.gesundheitsministerium.at/data/data.zip"
+readonly DATA_URL="https://covid19-dashboard.ages.at/data/data.zip"
 readonly DATA_ARCHIVE_NAME="data.zip"
 readonly DATE_STAMP="$(date +"%F-%H%M%S")"
 readonly DATA_PATH="data/data-$DATE_STAMP"
