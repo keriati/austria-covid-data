@@ -1,0 +1,95 @@
+﻿Bezirk;GKZ;AnzEinwohner;Anzahl;AnzahlTot;AnzahlFaelle7Tage
+Eisenstadt(Stadt);101;14637;47;0;3
+Rust(Stadt);102;1940;3;0;0
+Eisenstadt-Umgebung;103;42927;125;1;15
+Güssing;104;25797;95;0;27
+Jennersdorf;105;17066;19;0;0
+Mattersburg;106;39925;148;1;15
+Neusiedl am See;107;59552;240;4;59
+Oberpullendorf;108;37513;82;1;25
+Oberwart;109;54076;237;4;19
+Klagenfurt Stadt;201;100817;222;3;18
+Villach Stadt;202;62243;116;0;14
+Hermagor;203;18224;57;0;17
+Klagenfurt Land;204;59800;109;2;13
+Sankt Veit an der Glan;205;54555;90;0;14
+Spittal an der Drau;206;76091;83;1;3
+Villach Land;207;64668;128;2;8
+Völkermarkt;208;41878;122;4;44
+Wolfsberg;209;52726;89;1;3
+Feldkirchen;210;29937;37;0;1
+Krems an der Donau(Stadt);301;24876;142;4;20
+Sankt Pölten(Stadt);302;55044;304;4;72
+Waidhofen an der Ybbs(Stadt);303;11261;31;3;1
+Wiener Neustadt(Stadt);304;45277;269;0;26
+Amstetten;305;116114;425;16;39
+Baden;306;146203;704;6;101
+Bruck an der Leitha;307;102010;475;5;93
+Gänserndorf;308;103686;484;5;71
+Gmünd;309;36773;131;1;34
+Hollabrunn;310;50858;113;0;29
+Horn;311;31090;119;5;7
+Korneuburg;312;90889;466;6;62
+Krems(Land);313;56596;333;8;39
+Lilienfeld;314;25812;103;5;8
+Melk;315;77962;375;4;39
+Mistelbach;316;75483;358;7;49
+Mödling;317;118998;629;8;95
+Neunkirchen;318;86291;508;8;45
+Sankt Pölten(Land);319;131044;593;11;82
+Scheibbs;320;41403;167;2;6
+Tulln;321;103771;410;6;46
+Waidhofen an der Thaya;322;25888;155;2;22
+Wiener Neustadt(Land);323;77991;285;9;32
+Zwettl;325;42222;193;2;22
+Linz(Stadt);401;205726;1500;19;190
+Steyr(Stadt);402;38193;178;2;9
+Wels(Stadt);403;61727;406;0;46
+Braunau am Inn;404;104408;354;5;33
+Eferding;405;33156;128;6;1
+Freistadt;406;66621;326;6;33
+Gmunden;407;101631;346;2;73
+Grieskirchen;408;64721;202;1;16
+Kirchdorf an der Krems;409;56866;148;2;7
+Linz-Land;410;150273;1025;9;106
+Perg;411;68459;463;4;18
+Ried im Innkreis;412;61204;299;0;57
+Rohrbach;413;56524;276;0;47
+Schärding;414;57307;142;1;18
+Steyr-Land;415;60427;286;7;14
+Urfahr-Umgebung;416;85505;493;6;63
+Vöcklabruck;417;136253;541;4;106
+Wels-Land;418;73094;326;1;28
+Salzburg(Stadt);501;154211;594;3;63
+Hallein;502;60374;273;1;73
+Salzburg-Umgebung;503;152281;530;11;71
+Sankt Johann im Pongau;504;80573;614;18;34
+Tamsweg;505;20320;47;1;13
+Zell am See;506;87462;477;9;17
+Graz(Stadt);601;288806;1331;52;84
+Deutschlandsberg;603;60821;110;2;9
+Graz-Umgebung;606;154260;494;36;50
+Leibnitz;610;82484;272;9;10
+Leoben;611;60060;117;3;24
+Liezen;612;79901;212;1;32
+Murau;614;27659;39;0;2
+Voitsberg;616;51161;168;5;20
+Weiz;617;90343;299;18;14
+Murtal;620;72004;134;1;19
+Bruck-Mürzzuschlag;621;98984;191;5;42
+Hartberg-Fürstenfeld;622;90622;407;41;11
+Südoststeiermark;623;85947;99;2;5
+Innsbruck-Stadt;701;132110;1407;6;190
+Imst;702;60056;453;6;39
+Innsbruck-Land;703;179318;1055;14;150
+Kitzbühel;704;63881;482;11;18
+Kufstein;705;109682;982;35;54
+Landeck;706;44362;1186;16;55
+Lienz;707;48753;183;6;0
+Reutte;708;32670;120;1;1
+Schwaz;709;83873;741;14;80
+Bludenz;801;63714;474;5;28
+Bregenz;802;134383;639;10;81
+Dornbirn;803;89041;515;5;57
+Feldkirch;804;107159;582;4;133
+Wien;900;1897491;18895;267;2796
