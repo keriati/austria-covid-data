@@ -1,5 +1,10 @@
 # Austria COVID Data Archive Repository
 
+## Update 2021.01.19
+
+Add https://info.gesundheitsministerium.at/data/laender.csv
+Add https://info.gesundheitsministerium.at/data/national.csv
+
 ## Update 2020.11.10
 
 As the format from https://covid19-dashboard.ages.at/data/data.zip changed
