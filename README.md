@@ -1,5 +1,9 @@
 # Austria COVID Data Archive Repository
 
+## Update 2021.01.29
+
+- Add https://info.gesundheitsministerium.at/data/timeline.csv
+
 ## Update 2021.01.19
 
 - Add https://info.gesundheitsministerium.at/data/laender.csv
